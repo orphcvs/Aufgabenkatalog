@@ -1,5 +1,11 @@
-[
-  {
+{
+  "version": 2,
+  "lastUpdated": "2026-02-06T10:00:54.307211",
+  "etag": "W/\"9153c7a541e4e3d702495a91ec3fdc2ed03836b2a986bc0295a063164c6c7512\"",
+  "totalAufgaben": 7385,
+  "size": 2558025,
+  "data": [
+    {
     "Uebungsbereich": "Groß- und Kleinschreibung",
     "Teilgebiet": [
       {
@@ -82928,7 +82934,7 @@
             "KorrekteAntwort": 1,
             "Infotext": null,
             "Fremdwort": "Kreislauf der Zeit",
-            "UebungsBeschreibung": "Zyklus/Whisky\" : dritteswort = \"Xylophon",
+            "UebungsBeschreibung": "Zyklus/Whisky/Xylophon",
             "Uebung_id": "6.4.97"
           },
           {
@@ -82976,4 +82982,5 @@
     ],
     "Uebungsbereich_id": 6
   }
-]
+  ]
+}
