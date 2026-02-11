@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "lastUpdated": "2026-02-10T16:14:29.724053",
-  "etag": "W/\"4880658755688540056\"",
+  "version": 5,
+  "lastUpdated": "2026-02-11T10:13:25.677148",
+  "etag": "W/\"-1481661527662886260\"",
   "totalAufgaben": 7385,
   "size": 1410272,
   "data": [
@@ -74671,7 +74671,7 @@
                 "Quantität",
                 "Quarantäne"
               ],
-              "KorrekteAntwort": 2,
+              "KorrekteAntwort": 1,
               "Infotext": null,
               "UebungsBeschreibung": "Menge",
               "Uebung_id": "6.4.17"
