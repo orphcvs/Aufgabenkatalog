@@ -1,9 +1,9 @@
 {
-  "version": 7,
-  "lastUpdated": "2026-02-11T10:44:20.314816",
-  "etag": "W/\"6838437301616058346\"",
-  "totalAufgaben": 7386,
-  "size": 1410441,
+  "version": 8,
+  "lastUpdated": "2026-02-11T10:57:35.944143",
+  "etag": "W/\"3942125265008334001\"",
+  "totalAufgaben": 7387,
+  "size": 1410584,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -36799,6 +36799,17 @@
               "Infotext": "Getreide mit -ei-",
               "UebungsBeschreibung": "Getraide/Getreide",
               "Uebung_id": "4.1.100"
+            },
+            {
+              "Uebung_id": "5.1.200",
+              "UebungsBeschreibung": "Testfrage",
+              "Moeglichkeiten": [
+                "A",
+                "B",
+                "C"
+              ],
+              "KorrekteAntwort": 3,
+              "Infotext": "testinfo"
             }
           ],
           "IstSpeziell": false,
