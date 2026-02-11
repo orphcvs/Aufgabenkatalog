@@ -1,9 +1,9 @@
 {
-  "version": 6,
-  "lastUpdated": "2026-02-11T10:36:22.006752",
-  "etag": "W/\"-9159256344459973497\"",
-  "totalAufgaben": 7385,
-  "size": 1410272,
+  "version": 7,
+  "lastUpdated": "2026-02-11T10:44:20.314816",
+  "etag": "W/\"6838437301616058346\"",
+  "totalAufgaben": 7386,
+  "size": 1410441,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75588,6 +75588,17 @@
               "Infotext": null,
               "UebungsBeschreibung": "ägyptischer Herrscher",
               "Uebung_id": "6.4.100"
+            },
+            {
+              "Uebung_id": "6.4.101",
+              "UebungsBeschreibung": "Badenwürttemberg",
+              "Moeglichkeiten": [
+                "Ja",
+                "Nein",
+                "Vielleicht?"
+              ],
+              "KorrekteAntwort": 2,
+              "Infotext": "infotest"
             }
           ],
           "IstSpeziell": false,
