@@ -1,9 +1,9 @@
 {
-  "version": 15,
-  "lastUpdated": "2026-02-16T13:56:27.497138",
-  "etag": "W/\"963888754609076243\"",
-  "totalAufgaben": 7386,
-  "size": 1410415,
+  "version": 16,
+  "lastUpdated": "2026-02-16T14:22:05.274156",
+  "etag": "W/\"-7017930204139861359\"",
+  "totalAufgaben": 7387,
+  "size": 1410570,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75599,6 +75599,17 @@
               "Infotext": null,
               "UebungsBeschreibung": "ägyptischer Herrscher",
               "Uebung_id": "6.4.100"
+            },
+            {
+              "Uebung_id": "6.4.101",
+              "UebungsBeschreibung": "Testfrage",
+              "Moeglichkeiten": [
+                "A",
+                "B",
+                "C"
+              ],
+              "KorrekteAntwort": 3,
+              "Infotext": "das ist ein Infotext"
             }
           ],
           "IstSpeziell": false,
