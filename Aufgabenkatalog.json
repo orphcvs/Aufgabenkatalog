@@ -1,9 +1,9 @@
 {
-  "version": 21,
-  "lastUpdated": "2026-02-17T11:44:30.114967",
-  "etag": "W/\"-5793034801364404983\"",
-  "totalAufgaben": 7387,
-  "size": 1410549,
+  "version": 22,
+  "lastUpdated": "2026-02-17T11:59:44.320755",
+  "etag": "W/\"-6668787119888753827\"",
+  "totalAufgaben": 7388,
+  "size": 1410689,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75610,6 +75610,17 @@
               ],
               "KorrekteAntwort": 2,
               "Infotext": "test"
+            },
+            {
+              "Uebung_id": "6.4.102",
+              "UebungsBeschreibung": "test2",
+              "Moeglichkeiten": [
+                "7",
+                "8",
+                "9"
+              ],
+              "KorrekteAntwort": 3,
+              "Infotext": "blablabla"
             }
           ],
           "IstSpeziell": false,
