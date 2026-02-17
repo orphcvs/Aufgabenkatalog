@@ -1,9 +1,9 @@
 {
   "version": 22,
-  "lastUpdated": "2026-02-17T11:59:44.320755",
-  "etag": "W/\"-6668787119888753827\"",
+  "lastUpdated": "2026-02-17T12:01:46.148848",
+  "etag": "W/\"7466351047608158303\"",
   "totalAufgaben": 7388,
-  "size": 1410689,
+  "size": 1410685,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75601,17 +75601,6 @@
               "Uebung_id": "6.4.100"
             },
             {
-              "Uebung_id": "6.4.101",
-              "UebungsBeschreibung": "test",
-              "Moeglichkeiten": [
-                "A",
-                "B",
-                "C"
-              ],
-              "KorrekteAntwort": 2,
-              "Infotext": "test"
-            },
-            {
               "Uebung_id": "6.4.102",
               "UebungsBeschreibung": "test2",
               "Moeglichkeiten": [
@@ -75621,6 +75610,17 @@
               ],
               "KorrekteAntwort": 3,
               "Infotext": "blablabla"
+            },
+            {
+              "Uebung_id": "6.4.103",
+              "UebungsBeschreibung": "test",
+              "Moeglichkeiten": [
+                "1",
+                "2",
+                "3"
+              ],
+              "KorrekteAntwort": 3,
+              "Infotext": ""
             }
           ],
           "IstSpeziell": false,
