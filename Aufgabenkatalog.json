@@ -1,9 +1,9 @@
 {
-  "version": 26,
-  "lastUpdated": "2026-02-18T10:48:03.086984",
-  "etag": "W/\"-5776054727696341898\"",
-  "totalAufgaben": 7386,
-  "size": 1410415,
+  "version": 27,
+  "lastUpdated": "2026-02-18T14:54:08.836074",
+  "etag": "W/\"-4975928358132450296\"",
+  "totalAufgaben": 7387,
+  "size": 1410644,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -5801,6 +5801,15 @@
               "Infotext": "das Auto (Nomen)",
               "UebungsBeschreibung": "Es schneite so sehr, dass das auto steckenblieb.",
               "Uebung_id": "1.7.59"
+            },
+            {
+              "Uebung_id": "1.7.60",
+              "UebungsBeschreibung": "DUPLICATE: Es schneite so sehr, dass das auto steckenblieb.",
+              "Moeglichkeiten": [
+                "Es schneite so sehr, dass das auto steckenblieb."
+              ],
+              "KorrekteAntwort": 8,
+              "Infotext": "DUPLIKAT"
             }
           ],
           "IstSpeziell": true,
