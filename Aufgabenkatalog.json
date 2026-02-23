@@ -1,9 +1,9 @@
 {
-  "version": 28,
-  "lastUpdated": "2026-02-23T12:26:54.707032",
-  "etag": "W/\"2500066142360858773\"",
+  "version": 29,
+  "lastUpdated": "2026-02-23T13:34:42.162845",
+  "etag": "W/\"-6277697065444551791\"",
   "totalAufgaben": 7386,
-  "size": 1410310,
+  "size": 1410301,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -2888,7 +2888,7 @@
               ],
               "KorrekteAntwort": 1,
               "Infotext": "Endung -ung, also groß!",
-              "UebungsBeschreibung": "NIEDLICH/Belehrung/belehrung",
+              "UebungsBeschreibung": "Belehrung/belehrung",
               "Uebung_id": "1.3.67"
             },
             {
