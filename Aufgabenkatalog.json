@@ -1,9 +1,9 @@
 {
   "version": 35,
-  "lastUpdated": "2026-02-25T14:30:36.138522",
-  "etag": "W/\"3526474198898154441\"",
-  "totalAufgaben": 7387,
-  "size": 1410461,
+  "lastUpdated": "2026-02-25T14:31:19.097897",
+  "etag": "W/\"5876523075011605699\"",
+  "totalAufgaben": 7386,
+  "size": 1410310,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -1100,23 +1100,6 @@
               "Infotext": null,
               "UebungsBeschreibung": "BRÜTET",
               "Uebung_id": "1.1.99"
-            },
-            {
-              "Uebung_id": "1.1.100",
-              "UebungsBeschreibung": "test",
-              "Moeglichkeiten": [
-                [
-                  "test"
-                ],
-                [
-                  "test2"
-                ],
-                [
-                  "test3"
-                ]
-              ],
-              "KorrekteAntwort": 1,
-              "Infotext": "test"
             }
           ],
           "IstSpeziell": false,
