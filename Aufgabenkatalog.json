@@ -1,9 +1,9 @@
 {
-  "version": 39,
-  "lastUpdated": "2026-02-26T14:44:13.139048",
-  "etag": "W/\"-6228061434674101708\"",
-  "totalAufgaben": 7387,
-  "size": 1410617,
+  "version": 40,
+  "lastUpdated": "2026-02-26T15:01:29.025031",
+  "etag": "W/\"8949305771263440709\"",
+  "totalAufgaben": 7386,
+  "size": 1410224,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -60114,7 +60114,7 @@
         },
         {
           "Titel": "Oberzeichen (ä, ö, ü)",
-          "Aufgabenbeschreibung": "Bei den folgenden Worten fehlen die Oberzeichen, das heißt die Pünktchen über dem Ä, Ö oder dem Ü.\n***Bitte den Buchstaben anklicken und mit Doppelklick die Auswahl bestätigen***",
+          "Aufgabenbeschreibung": "Bei den folgenden Worten fehlen die Oberzeichen, das heißt die Pünktchen über dem Ä, Ö oder dem Ü.",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -75608,36 +75608,6 @@
         }
       ],
       "Uebungsbereich_id": 6
-    },
-    {
-      "Uebungsbereich": "test",
-      "Teilgebiet": [
-        {
-          "Titel": "test",
-          "Aufgabenbeschreibung": "test",
-          "UebungenListe": [
-            {
-              "Uebung_id": "7.1.1",
-              "UebungsBeschreibung": "test",
-              "Moeglichkeiten": [
-                [
-                  "test"
-                ],
-                [
-                  "test"
-                ],
-                [
-                  "test"
-                ]
-              ],
-              "KorrekteAntwort": 1,
-              "Infotext": "test"
-            }
-          ],
-          "IstSpeziell": false,
-          "Teilgebiet_id": "7.1"
-        }
-      ]
     }
   ]
 }
