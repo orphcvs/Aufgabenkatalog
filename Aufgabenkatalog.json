@@ -1,9 +1,9 @@
 {
-  "version": 40,
-  "lastUpdated": "2026-02-26T15:01:29.025031",
-  "etag": "W/\"8949305771263440709\"",
+  "version": 41,
+  "lastUpdated": "2026-02-27T09:46:51.738782",
+  "etag": "W/\"2740519558999802178\"",
   "totalAufgaben": 7386,
-  "size": 1410224,
+  "size": 1410310,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -60114,7 +60114,7 @@
         },
         {
           "Titel": "Oberzeichen (ä, ö, ü)",
-          "Aufgabenbeschreibung": "Bei den folgenden Worten fehlen die Oberzeichen, das heißt die Pünktchen über dem Ä, Ö oder dem Ü.",
+          "Aufgabenbeschreibung": "Bei den folgenden Worten fehlen die Oberzeichen, das heißt die Pünktchen über dem Ä, Ö oder dem Ü.\n***Bitte den Buchstaben anklicken und mit Doppelklick die Auswahl bestätigen***",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
