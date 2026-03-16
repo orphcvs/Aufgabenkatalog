@@ -1,9 +1,9 @@
 {
   "version": 42,
-  "lastUpdated": "2026-03-16T09:36:42.919866",
-  "etag": "W/\"-3671477262101146029\"",
-  "totalAufgaben": 7387,
-  "size": 1410617,
+  "lastUpdated": "2026-03-16T09:39:37.850938",
+  "etag": "W/\"2800453713115780190\"",
+  "totalAufgaben": 7386,
+  "size": 1410310,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75608,36 +75608,6 @@
         }
       ],
       "Uebungsbereich_id": 6
-    },
-    {
-      "Uebungsbereich": "test",
-      "Teilgebiet": [
-        {
-          "Titel": "test",
-          "Aufgabenbeschreibung": "test",
-          "UebungenListe": [
-            {
-              "Uebung_id": "7.1.1",
-              "UebungsBeschreibung": "test",
-              "Moeglichkeiten": [
-                [
-                  "test"
-                ],
-                [
-                  "test"
-                ],
-                [
-                  "test"
-                ]
-              ],
-              "KorrekteAntwort": 1,
-              "Infotext": "test"
-            }
-          ],
-          "IstSpeziell": false,
-          "Teilgebiet_id": "7.1"
-        }
-      ]
     }
   ]
 }
