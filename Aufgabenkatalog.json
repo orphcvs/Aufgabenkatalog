@@ -1,16 +1,21 @@
 {
-  "version": 42,
-  "lastUpdated": "2026-03-16T09:39:37.850938",
-  "etag": "W/\"2800453713115780190\"",
+  "version": 43,
+  "lastUpdated": "2026-10-23T09:32:23.454854",
+  "etag": "W/\"1538674308471474315\"",
   "totalAufgaben": 7386,
-  "size": 1410310,
+  "size": 1410381,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
+      "Uebungsbereich_id": 1,
       "Teilgebiet": [
         {
           "Titel": "Nomen-Verb-Adjektiv Teil 1",
           "Aufgabenbeschreibung": "Bitte die drei folgenden Wortarten unterscheiden:\nNomen = geben den Begriffen einen Namen: Ewigkeit, Geist, Mathematik\nVerben = alles was man tun kann: essen, läuft, malt, denkst\nAdjektive = beschreiben wie etwas ist: rot, warm, lang, schwer, eklig",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.1",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -1101,15 +1106,15 @@
               "UebungsBeschreibung": "BRÜTET",
               "Uebung_id": "1.1.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.1"
+          ]
         },
         {
           "Titel": "Nomen-Verb-Adjektiv Teil 2",
           "Aufgabenbeschreibung": "Bitte die drei folgenden Wortarten unterscheiden:\nNomen = Namenworte, alles was man sehen und anfassen kann: Haus, Mann\nVerben = Tätigkeitsworte, alles was man tun kann: essen, laufen, malen\nAdjektive = Eigenschaftsworte, beschreiben wie etwas ist: rot, warm, lang",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.2",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -2211,15 +2216,15 @@
               "UebungsBeschreibung": "COWBOY",
               "Uebung_id": "1.2.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.2"
+          ]
         },
         {
           "Titel": "Worte mit -ung, -heit, -keit",
           "Aufgabenbeschreibung": "Worte mit folgenden Endungen werden immer groß geschrieben:\n-ung, -heit, -keit, -schaft, -nis und -tum\nDurch Anhängen dieser Silben werden aus Verben und Adjektiven dann Nomen.\nZum Beispiel: gesund + -heit = die Gesundheit",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.3",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -3221,15 +3226,15 @@
               "UebungsBeschreibung": "Friedlich/friedlich",
               "Uebung_id": "1.3.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.3"
+          ]
         },
         {
           "Titel": "Großschreibung von Verben",
           "Aufgabenbeschreibung": "Verben (Tätigkeitsworte) werden normalerweise mit einem kleinen Anfangsbuchstaben geschrieben:\nlaufen, denkt, lachst, schreibt\nIn einigen Fällen wird aus dem Verb aber ein Nomen:\ndas Laufen, das Denken, das Lachen, das Schreiben\nAuch nach den folgenden Worten werden Verben meist groß geschrieben:\nbeim, im, zum, dein, sein, mein, euer, ihr",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.4",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -3731,15 +3736,15 @@
               "UebungsBeschreibung": "Sie rechnen heute sehr schwere Aufgaben./Sie Rechnen heute sehr schwere Aufgaben.",
               "Uebung_id": "1.4.50"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.4"
+          ]
         },
         {
           "Titel": "Großschreibung von Adjektiven Teil 1",
           "Aufgabenbeschreibung": "Adjektive (Eigenschaftsworte) werden normalerweise mit einem kleinen Anfangsbuchstaben geschrieben:\nklein, groß, rot, klug, kalt, rund\nEin Adjektiv wird groß geschrieben, wenn nach der, die, das kein Nomen folgt:\nDas ist das Gute an der Sache\n.Auch nach Mengenangaben werden Adjektive häufig groß geschrieben:\nalles, etwas, viel, nichts, manches: Er sah nichts Besonderes",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.5",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -4741,15 +4746,15 @@
               "UebungsBeschreibung": "Die faulen bleiben in der Schule sitzen./Die Faulen bleiben in der Schule sitzen.",
               "Uebung_id": "1.5.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.5"
+          ]
         },
         {
           "Titel": "Großschreibung von Adjektiven Teil 2",
           "Aufgabenbeschreibung": "Die folgenden Sätze beinhalten besondere Probleme der Groß- und der Kleinschreibung,\nz.B. die Großschreibung von Verben und Adjektiven.\nWelcher von beiden Sätzen ist fehlerfrei?",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.6",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -5261,15 +5266,15 @@
               "UebungsBeschreibung": "Im frühling grünen die Bäume, und im Herbst werden sie kahl./Im Frühling grünen die Bäume, und im Herbst werden sie kahl.",
               "Uebung_id": "1.6.51"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.6"
+          ]
         },
         {
           "Titel": "Fehlersuche",
           "Aufgabenbeschreibung": "Bitte die Fehler der Groß- und Kleinschreibung finden.\nManchmal wurde ein Nomen klein statt groß geschrieben und manchmal wurden Adjektive oder Verben groß geschrieben.\n",
+          "IstSpeziell": true,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "1.7",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -5802,21 +5807,21 @@
               "UebungsBeschreibung": "Es schneite so sehr, dass das auto steckenblieb.",
               "Uebung_id": "1.7.59"
             }
-          ],
-          "IstSpeziell": true,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "1.7"
+          ]
         }
-      ],
-      "Uebungsbereich_id": 1
+      ]
     },
     {
       "Uebungsbereich": "Dopplung",
+      "Uebungsbereich_id": 2,
       "Teilgebiet": [
         {
           "Titel": "Worte mit f oder ff",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-ff-) kommt nur nach einem kurz gsprochenen Vokal, z.B. 'hoffen'.\nNach einem lang gesprochenen Vokal (z.B. Hof) und nach au, eu, ei und ie kommt immer nur -f-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.1",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -6818,15 +6823,15 @@
               "UebungsBeschreibung": "Taufe/Tauffe",
               "Uebung_id": "2.1.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.1"
+          ]
         },
         {
           "Titel": "Worte mit l oder ll",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-ll-) kommt nur nach einem kurz gesprochenen Vokal, z.B.: Schnuller.\nNach einem lang gesprochenen Vokal (z.B. Schule) und nach au, eu, ei und ie kommt immer -l-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.2",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -7828,15 +7833,15 @@
               "UebungsBeschreibung": "Volbart/Vollbart",
               "Uebung_id": "2.2.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.2"
+          ]
         },
         {
           "Titel": "Worte mit m oder mm",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-mm-) kommt nur nach einem kurz gesprochenen Vokal, z.B.: Hammer.\nNach einem lang gesprochenen Vokal (z.B. Samen) und nach au, eu, ei und ie kommt immer -m-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.3",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -8838,15 +8843,15 @@
               "UebungsBeschreibung": "Komode/Kommode",
               "Uebung_id": "2.3.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.3"
+          ]
         },
         {
           "Titel": "Worte mit n oder nn",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-nn-) kommt nur nach einem kurz gesprochenen Vokal, z.B.: Kanne.\nNach einem lang gesprochenen Vokal (z.B. Kahn) und nach au, eu, ei und ie kommt immer -n-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.4",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -9858,15 +9863,15 @@
               "UebungsBeschreibung": "er meint/er meinnt",
               "Uebung_id": "2.4.101"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.4"
+          ]
         },
         {
           "Titel": "Worte mit p oder pp",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-pp-) kommt nur nach einem kurz gesprochenen Vokal, z.B.: Kappe.\nNach einem lang gesprochenen Vokal (z.B. Lupe) und nach au, eu, ei und ie kommt immer -p-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.5",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -10858,15 +10863,15 @@
               "UebungsBeschreibung": "im Galop/im Galopp",
               "Uebung_id": "2.5.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.5"
+          ]
         },
         {
           "Titel": "Worte mit r oder rr",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-rr-) kommt nur nach einem kurz gesprochenen Vokal, z.B. Karre.\nNach einem lang gesprochenen Vokal (z.B. Schar) und nach au, eu, ei und ie kommt immer -r-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.6",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -11868,15 +11873,15 @@
               "UebungsBeschreibung": "schmieren /schmierren",
               "Uebung_id": "2.6.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.6"
+          ]
         },
         {
           "Titel": "Worte mit s oder ss",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-ss-) kommt nur nach einem kurz gesprochenen Vokal, z.B. Schüsse.\nNach einem lang gesprochenen Vokal (z.B. Rasen) und nach au, eu, ei und ie kommt immer -s-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.7",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -12878,15 +12883,15 @@
               "UebungsBeschreibung": "es saust/es sausst",
               "Uebung_id": "2.7.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.7"
+          ]
         },
         {
           "Titel": "Worte mit ß oder ss",
           "Aufgabenbeschreibung": "Ein -ß- schreibt man nach einem lang-gesprochenen Vokal und nach au, ei, eu, ie; z.B. fließen.\nEin -ss- kommt nach einem betonten Vokal: Hass, nass, Fluss",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.8",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -13888,15 +13893,15 @@
               "UebungsBeschreibung": "Gefäße/Gefässe",
               "Uebung_id": "2.8.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.8"
+          ]
         },
         {
           "Titel": "Worte mit t oder tt",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-tt-) kommt nur nach einem kurz gesprochenen Vokal, z.B. Kette.\nNach einem lang gesprochenen Vokal (z.B. Peter) und nach au, eu, ei und ie kommt immer -t-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.9",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -14898,15 +14903,15 @@
               "UebungsBeschreibung": "der Atlas/der Attlas",
               "Uebung_id": "2.9.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.9"
+          ]
         },
         {
           "Titel": "Worte mit bb, dd, gg, kk, zz",
           "Aufgabenbeschreibung": "Bitte merken:\n-bb-: Krabbe, krabbeln, Schrubber, Robbe, Ebbe\n-dd-: Pudding, buddeln, addieren, Paddel, Teddy\n-gg-: Bagger, Dogge, Flagge, Waggon, Schmuggler\n-kk-: Akku, Akkusativ, Akkord, akkurat, Makkaroni\n-zz-: Pizza, Jazz, Razzia, Intermezzo, Skizze",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.10",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -15908,15 +15913,15 @@
               "UebungsBeschreibung": "Krankheit/Krankkheit",
               "Uebung_id": "2.10.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.10"
+          ]
         },
         {
           "Titel": "Worte mit k oder ck",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-ck-) kommt nur nach einem kurz gesprochenen Vokal, z.B.: Hacke.\nNach einem lang gesprochenen Vokal (z.B. Haken) und nach au, eu, ei und ie kommt immer -k-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.11",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -16918,15 +16923,15 @@
               "UebungsBeschreibung": "es drükt/es drückt",
               "Uebung_id": "2.11.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.11"
+          ]
         },
         {
           "Titel": "Worte mit z oder tz",
           "Aufgabenbeschreibung": "Ein Doppelkonsonant (-tz-) kommt nur nach einem kurz gesprochenen Vokal, z.B. Katze.\nNach einem lang gesprochenen Vokal (z.B. Kapuze) und nach au, eu, ei und ie kommt immer -z-.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.12",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -17928,15 +17933,15 @@
               "UebungsBeschreibung": "ist wizig/ist witzig",
               "Uebung_id": "2.12.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.12"
+          ]
         },
         {
           "Titel": "Worte mit z oder tzt",
           "Aufgabenbeschreibung": "Aus Worten mit -z- können Worte mit -zt- werden:\ngetanzt von Tanz; gespreitzt von spreizen\nAus Worten mit -tz- können -tzt- Worte werden:\nder Vorgesetzte von setzen; nassgespritzt von spritzen",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.13",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -18938,15 +18943,15 @@
               "UebungsBeschreibung": "geschwänzt/geschwäntzt",
               "Uebung_id": "2.13.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.13"
+          ]
         },
         {
           "Titel": "Dopplung nach au, ei, eu",
           "Aufgabenbeschreibung": "Merke: Nach au / äu / ei / eu und ie folgt nie ein doppelter Konsonant oder -tz- oder -ck-\nPauke (nur ein -k-); Heizung (nur ein -z-); heulen (nur ein -l-)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.14",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -19949,15 +19954,15 @@
               "UebungsBeschreibung": "puzen/putzen",
               "Uebung_id": "2.14.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.14"
+          ]
         },
         {
           "Titel": "Dopplung nach l, m, n, r",
           "Aufgabenbeschreibung": "Nach: l, m, n und r schreibt man nie -tz- und nie -ck-\nWalze (nur ein -z-); winzig (nur ein -z-); Imker (nur ein -k-)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "2.15",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -20949,21 +20954,21 @@
               "UebungsBeschreibung": "der Kranz/der Krantz",
               "Uebung_id": "2.15.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "2.15"
+          ]
         }
-      ],
-      "Uebungsbereich_id": 2
+      ]
     },
     {
       "Uebungsbereich": "Dehnung",
+      "Uebungsbereich_id": 3,
       "Teilgebiet": [
         {
           "Titel": "Dehnung des A (-ah-)",
           "Aufgabenbeschreibung": "Bitte folgende Worte besonders beachten:\nmalen (Bild) und mahlen (Mehl); das Mal (Denkmal) und Mahl (Essen); der Wal (Tier) und die Wahl; war (es war) und wahr (Wahrheit)\nWortverbindungen mit -fahren- (auch Gefahr) und -zahlen- immer mit -h-\nWörter mit -tragen- und die Endung -bar ohne -h-",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.1",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -21965,15 +21970,15 @@
               "UebungsBeschreibung": "Nagetier/Nahgetier",
               "Uebung_id": "3.1.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.1"
+          ]
         },
         {
           "Titel": "Dehnung des A (-ah-: wahr/war)",
           "Aufgabenbeschreibung": "Bitte unterscheiden:\nwar: Vergangenheit von bin, ist\nwahr: von Wahrheit (z.B. Das kann nicht wahr sein.)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.2",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -22465,15 +22470,15 @@
               "UebungsBeschreibung": "Bleibe immer bei der Wahrheit./Bleibe immer bei der Warheit.",
               "Uebung_id": "3.2.49"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.2"
+          ]
         },
         {
           "Titel": "Dehnung des A (-äh-)",
           "Aufgabenbeschreibung": "Die wichtigsten Worte mit -äh-:\nähnlich, bewähren, ernähren, Fähre, gähnen, gefährlich,\ngewähren, jährlich, lähmen, Währung, zählen, Zähne, zähmen.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.3",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -23485,15 +23490,15 @@
               "UebungsBeschreibung": "grämen/grähmen",
               "Uebung_id": "3.3.101"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.3"
+          ]
         },
         {
           "Titel": "Dehnung des A (-aa-)",
           "Aufgabenbeschreibung": "Worte mit -aa-:\nder Aal, das Haar, die Waage, die Stadt Aachen\nEin -ää- gibt es nicht! Hier wird  ein -ä- weggelassen:\ndie Säle, das Pärchen",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.4",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -24485,15 +24490,15 @@
               "UebungsBeschreibung": "der Qualm /der Quaalm",
               "Uebung_id": "3.4.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.4"
+          ]
         },
         {
           "Titel": "Dehnung des E (-eh-)",
           "Aufgabenbeschreibung": "Worte mit -e- oder -eh-:\nMit -h-: fehlen, nehmen, stehlen, wehren, kehren, verzehren\nOhne -h-: weben, bescheren, legen, geben, regnen, reden",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.5",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -25495,15 +25500,15 @@
               "UebungsBeschreibung": "Erdbeben/Erdbehben",
               "Uebung_id": "3.5.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.5"
+          ]
         },
         {
           "Titel": "Dehnung des E (-ee-)",
           "Aufgabenbeschreibung": "Worte mit -ee-:\nAllee, Armee, Beeren, Beet, Beefsteak, Chaussee,\nFee, Frottee, Galeere, Gelee, Heer, Idee,\nKaffee, Schnee, Seele (aber: selig!), Speer, Tournee",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.6",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -26505,15 +26510,15 @@
               "UebungsBeschreibung": "Flegel/Fleegel",
               "Uebung_id": "3.6.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.6"
+          ]
         },
         {
           "Titel": "Dehnung des I (-ih-)",
           "Aufgabenbeschreibung": "Es gibt nur wenige Worte mit -ih-:\nihr, ihm, ihn, ihnen, ihrem, ihre, ihrzuliebe, ihretwegen.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.7",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -27614,15 +27619,15 @@
               "UebungsBeschreibung": "Volkslid/Volkslied/Volkslihd",
               "Uebung_id": "3.7.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.7"
+          ]
         },
         {
           "Titel": "Dehnung des I (-ie-)",
           "Aufgabenbeschreibung": "Tipp für i/ie:\nWenn sich das I kurz spricht wird nur ein einfaches -i- geschrieben. (Spinne, Zinn, Liste)\nWenn sich das I lang spricht wird ein -ie- geschrieben. (Giebel, Zwiebel, Bier)\nAchtung: Bei einigen Worten spricht sich das I zwar lang, aber es wird kein -ie- geschrieben: Kaninchen, Bibel, Fabrik\nFremdworte mit -ii-: liieren, variieren, assoziieren, aliieren",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.8",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -28624,15 +28629,15 @@
               "UebungsBeschreibung": "sehr vile/sehr viele",
               "Uebung_id": "3.8.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.8"
+          ]
         },
         {
           "Titel": "Dehnung des I (-ieh)",
           "Aufgabenbeschreibung": "Worte mit -ieh-: ziehen, sieht, empfiehlt, verliehen, geschieht, fliehen.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.9",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -29734,15 +29739,15 @@
               "UebungsBeschreibung": "Krokodil/Krokodiel/Krokodiehl",
               "Uebung_id": "3.9.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.9"
+          ]
         },
         {
           "Titel": "Dehnung des O (-oh-)",
           "Aufgabenbeschreibung": "Die wichtigsten Worte mit -oh-:\nbefohlen, Bohne, Bohrer, drohen, empfohlen, gestohlen, hohl,\nKohl, Lohn, Rohr, Sohle, Sohn, wohl, wohnen.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.10",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -30744,15 +30749,15 @@
               "UebungsBeschreibung": "er drot/er droht",
               "Uebung_id": "3.10.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.10"
+          ]
         },
         {
           "Titel": "Dehnung des O (-öh-)",
           "Aufgabenbeschreibung": "Die wichtigsten Worte mit -öh-:\nargwöhnen, dröhnen, Föhn, fröhlich, gewöhnen, gröhlen, höher,\nHöhle, Löhne, Möhre, stöhnen, verhöhnen, versöhnen, verwöhnen.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.11",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -31744,15 +31749,15 @@
               "UebungsBeschreibung": "der König/der Köhnig",
               "Uebung_id": "3.11.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.11"
+          ]
         },
         {
           "Titel": "Dehnung des O (-oo-)",
           "Aufgabenbeschreibung": "Worte mit -oo-:\nBoot, doof, Moor, Moos, Zoo, cool, Kooperation, Koordinate",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.12",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -32754,15 +32759,15 @@
               "UebungsBeschreibung": "Bötchen/Böötchen",
               "Uebung_id": "3.12.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.12"
+          ]
         },
         {
           "Titel": "Dehnung des U (-uh-)",
           "Aufgabenbeschreibung": "Die wichtigsten Worte mit -uh-:\nHuhn, Kuh, Ruhe, Stuhl, Truhe und verwandte Worte.\nBitte unterscheiden: Rum (Alkohol) - Ruhm (sich rühmen);\nUhr (Zeitmesser) - Urlaub, Urkunde, Uroma",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.13",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -33764,15 +33769,15 @@
               "UebungsBeschreibung": "Rurkole/Ruhrkohle",
               "Uebung_id": "3.13.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.13"
+          ]
         },
         {
           "Titel": "Dehnung des U (-üh-)",
           "Aufgabenbeschreibung": "Die wichtigsten Worte mit -üh-:\nblühen (aber: Blüte), Bühne (aber: Tribüne), früh, fühlen, führen,\nGebühren, glühen, Hühner, kühl, kühn, Mühe, Mühle, rühmen",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.14",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -34774,15 +34779,15 @@
               "UebungsBeschreibung": "die Zügel /die Zühgel",
               "Uebung_id": "3.14.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.14"
+          ]
         },
         {
           "Titel": "Dehnung des U (-uu-)",
           "Aufgabenbeschreibung": "Worte mit -uu-:\nBetreuung, Bebauung, Genugtuung, Individuum, Trauung, Verdauung, Vakuum\nWorte mit -ou-:\nKommen meist aus dem Französischen: Limousine, Boutique, Couch, Nougat, Rouge, Roulette\nOder aus dem Englischen: Countdown, Sound, Foul, Outsider",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "3.15",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -35784,21 +35789,21 @@
               "UebungsBeschreibung": "der Cuup/der Coup",
               "Uebung_id": "3.15.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "3.15"
+          ]
         }
-      ],
-      "Uebungsbereich_id": 3
+      ]
     },
     {
       "Uebungsbereich": "Klangähnliche Buchstaben",
+      "Uebungsbereich_id": 4,
       "Teilgebiet": [
         {
           "Titel": "Worte mit ai oder ei",
           "Aufgabenbeschreibung": "Eine Regel gibt es hier leider nicht.\nDie -ai- Worte muss man sich merken.\nz.B.: Hai, Kai, Kaiser, Brotlaib, Laich (Fischeier),\n Laie, Mai, Mais, Taifun, Waisenkind, Hawaii.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.1",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -36801,25 +36806,25 @@
               "Uebung_id": "4.1.100"
             },
             {
-              "Uebung_id": "5.1.101",
-              "UebungsBeschreibung": "Testfrage",
               "Moeglichkeiten": [
                 "A",
                 "B",
                 "C"
               ],
               "KorrekteAntwort": 3,
-              "Infotext": "testinfo"
+              "Infotext": "testinfo",
+              "UebungsBeschreibung": "Testfrage",
+              "Uebung_id": "5.1.101"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.1"
+          ]
         },
         {
           "Titel": "E oder Ä",
           "Aufgabenbeschreibung": "E und Ä sprechen sich völlig gleich,\nman kann den Unterschied aber oft herausfinden, wenn man ein verwandtes Wort mit A findet.\nH_nde von Hand; K_lte von kalt\nLeider gibt es für viele Worte mit Ä keine solche Ableitung.\nGräte, Bär, Käfer, Känguru, Käse",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.2",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -37821,15 +37826,15 @@
               "UebungsBeschreibung": "Särge/Serge",
               "Uebung_id": "4.2.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.2"
+          ]
         },
         {
           "Titel": "EU oder ÄU",
           "Aufgabenbeschreibung": "-eu- und -äu- sprechen sich völlig gleich,\nman kann den Unterschied aber oft herausfinden, wenn man ein verwandtes Wort mit -au- findet.\nZ_une von Zaun; Tr_ume von Traum\nLeider gibt es für viele Worte mit -äu- keine solche Ableitung.\nSäule, Knäuel, Allgäu, sträuben",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.3",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -38831,15 +38836,15 @@
               "UebungsBeschreibung": "Abschäu/Abscheu",
               "Uebung_id": "4.3.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.3"
+          ]
         },
         {
           "Titel": "Worte mit s oder ß",
           "Aufgabenbeschreibung": "Tipp: Das -s- wird meist mehr gesummt und das -ß- wird gezischt.\nOft hilft es, ein verwandtes Wort zu suchen:\nHau_ von Häuser (gesummt); Flo_ von Flöße (gezischt)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.4",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -39841,15 +39846,15 @@
               "UebungsBeschreibung": "stoßen/stosen",
               "Uebung_id": "4.4.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.4"
+          ]
         },
         {
           "Titel": "B oder P am Wortanfang",
           "Aufgabenbeschreibung": "Tipp für B oder P am Wortanfang:\nDie Buchstaben B und P sind leicht zu verwechseln,\nman kann den Unterschied aber hören.\nDas B spricht sich etwas weicher aus und das P am Anfang etwas härter.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.5",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -40841,15 +40846,15 @@
               "UebungsBeschreibung": "Berle/Perle",
               "Uebung_id": "4.5.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.5"
+          ]
         },
         {
           "Titel": "B oder P in der Wortmitte",
           "Aufgabenbeschreibung": "Tipp für B und P in der Wortmitte:\nDie Buchstaben B und P sind leicht zu verwechseln,\nman kann den Unterschied aber hören.\nDas B spricht sich etwas weicher aus und das P etwas härter.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.6",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -41851,15 +41856,15 @@
               "UebungsBeschreibung": "Weinrebe/Weinrepe",
               "Uebung_id": "4.6.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.6"
+          ]
         },
         {
           "Titel": "B oder P am Wortende",
           "Aufgabenbeschreibung": "Tipp für B und P am Wortende:\nDie Buchstaben B und P sind leicht zu verwechseln,\nman kann den Unterschied aber meist hören, wenn man das Wort verlängert oder die Mehrzahl bildet:\nrei_t von reiben; Gra_ von Gräber",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.7",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -42861,15 +42866,15 @@
               "UebungsBeschreibung": "Sebtember/September",
               "Uebung_id": "4.7.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.7"
+          ]
         },
         {
           "Titel": "D oder T am Wortanfang",
           "Aufgabenbeschreibung": "Tipp für D und T am Wortanfang:\nDie Buchstaben D und T sind leicht zu verwechseln,\nman kann den Unterschied aber hören.\nDas D spricht sich etwas weicher aus und das T am Anfang etwas härter.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.8",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -43871,15 +43876,15 @@
               "UebungsBeschreibung": "Demut/Temut",
               "Uebung_id": "4.8.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.8"
+          ]
         },
         {
           "Titel": "D oder T in der Wortmitte",
           "Aufgabenbeschreibung": "Tipp für D und T in der Wortmitte:\nDie Buchstaben D und T sind leicht zu verwechseln,\nman kann den Unterschied aber hören.\nDas D spricht sich etwas weicher aus und das T etwas härter.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.9",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -44881,15 +44886,15 @@
               "UebungsBeschreibung": "dichten/tichten",
               "Uebung_id": "4.9.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.9"
+          ]
         },
         {
           "Titel": "D oder T am Wortende",
           "Aufgabenbeschreibung": "Tipp für D und T am Wortende:\nDie Buchstaben D und T sind leicht zu verwechseln,\nman kann den Unterschied aber meist hören, wenn man das Wort verlängert oder die Mehrzahl bildet:\nHan_ von Hände; tausen_ von Tausende.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.10",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -45891,15 +45896,15 @@
               "UebungsBeschreibung": "Stifd/Stift",
               "Uebung_id": "4.10.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.10"
+          ]
         },
         {
           "Titel": "G oder K am Wortanfang",
           "Aufgabenbeschreibung": "Tipp für G und K am Wortanfang:\nDie Buchstaben G und K sind leicht zu verwechseln,\nman kann den Unterschied aber hören:\nDas G spricht sich etwas weicher aus und das K am Anfang etwas härter.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.11",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -46901,15 +46906,15 @@
               "UebungsBeschreibung": "Gasten/Kasten",
               "Uebung_id": "4.11.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.11"
+          ]
         },
         {
           "Titel": "G oder K in der Wortmitte",
           "Aufgabenbeschreibung": "Tipp für G und K in der Wortmitte.\nDie Buchstaben G und K sind leicht zu verwechseln,\nman kann den Unterschied aber hören:\nDas G spricht sich etwas weicher aus und das K etwas härter.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.12",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -47911,15 +47916,15 @@
               "UebungsBeschreibung": "melgen/melken",
               "Uebung_id": "4.12.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.12"
+          ]
         },
         {
           "Titel": "G oder K am Wortende",
           "Aufgabenbeschreibung": "Tipp für G und K am Wortende:\nDie Buchstaben G und K sind leicht zu verwechseln,\nman kann den Unterschied aber hören,\nwenn man das Wort verlängert oder die Mehrzahl bildet:\nZwei_ von Zweige; der So_ von saugen",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.13",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -48921,15 +48926,15 @@
               "UebungsBeschreibung": "Teig/Teik",
               "Uebung_id": "4.13.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.13"
+          ]
         },
         {
           "Titel": "M oder N am Wortanfang",
           "Aufgabenbeschreibung": "Tipp für M und N am Wortanfang:\nDie Buchstaben M und N sind leicht zu verwechseln,\nman kann den Unterschied aber hören, wenn man das Wort deutlich spricht.\nBeim M pressen sich die Lippen zusammen, beim N drückt die Zunge nach oben.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.14",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -49921,15 +49926,15 @@
               "UebungsBeschreibung": "Mame/Name",
               "Uebung_id": "4.14.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.14"
+          ]
         },
         {
           "Titel": "M oder N in der Wortmitte",
           "Aufgabenbeschreibung": "Tipp für M und N in der Wortmitte:\nDie Buchstaben M und N sind leicht zu verwechseln,\nman kann den Unterschied aber hören, wenn man das Wort deutlich spricht.\nBeim M pressen sich die Lippen zusammen, beim N drückt die Zunge nach oben.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.15",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -50931,15 +50936,15 @@
               "UebungsBeschreibung": "Schmur/Schnur",
               "Uebung_id": "4.15.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.15"
+          ]
         },
         {
           "Titel": "V oder F",
           "Aufgabenbeschreibung": "Die Buchstaben V und F hören sich oft völlig gleich an.\nLeider gibt es hier keine anwendbare Regel.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.16",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -51931,15 +51936,15 @@
               "UebungsBeschreibung": "Viehzeug/Fiehzeug",
               "Uebung_id": "4.16.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.16"
+          ]
         },
         {
           "Titel": "V oder W",
           "Aufgabenbeschreibung": "Der Buchstabe V wird oft wie ein W gesprochen.\nLeider gibt es hier keine anwendbare Regel.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.17",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -52941,15 +52946,15 @@
               "UebungsBeschreibung": "venig/wenig",
               "Uebung_id": "4.17.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.17"
+          ]
         },
         {
           "Titel": "Vorsilben mit V und F",
           "Aufgabenbeschreibung": "Die Vorsilben vor- und ver- schreiben sich mit einem V:\nvortragen, vorsagen, vertragen, versagen\nDie Vorsilbe fort- dagegen mit einem F:\nforttragen, fortgehen\nDies gilt nur für Vorsilben, nicht für Forelle, Form, forschen...",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.18",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -53951,15 +53956,15 @@
               "UebungsBeschreibung": "Vorsorge/Forsorge",
               "Uebung_id": "4.18.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.18"
+          ]
         },
         {
           "Titel": "f oder pf",
           "Aufgabenbeschreibung": "F- und -Pf hört sich in der Aussprache meist völlig gleich an,\neine Regel gibt es hier nicht.\nMan sollte versuchen, sich die Worte mit Pf- zu merken.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.19",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -54961,15 +54966,15 @@
               "UebungsBeschreibung": "der Fau/der Pfau",
               "Uebung_id": "4.19.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.19"
+          ]
         },
         {
           "Titel": "f oder pf in der Wortmitte oder am Wortende",
           "Aufgabenbeschreibung": "-f- und -pf- in der Wortmitte oder am Wortende sprechen sich gleich aus.\nAls Regel gilt: Nach einem -m- folgt immer ein -pf-.\nDampf, impfen, Sumpf, Rumpf\nNach einem -n- folgt dagegen nur ein -f-\nSenf, fünf, Hanf",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.20",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -55981,15 +55986,15 @@
               "UebungsBeschreibung": "er imft/er impft",
               "Uebung_id": "4.20.101"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.20"
+          ]
         },
         {
           "Titel": "x, chs oder ks",
           "Aufgabenbeschreibung": "Mit -x-: Axt, Boxer, Lexikon, Express, Text, Taxi, Praxis\nMit -chs-: Dachs, Wachs, Ochse, Luchs, Eidechse, wachsen\nMit -ks: Keks, Häcksel, links",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.21",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -57080,15 +57085,15 @@
               "UebungsBeschreibung": "es knaxte/es knackste/es knachste",
               "Uebung_id": "4.21.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.21"
+          ]
         },
         {
           "Titel": "y oder i",
           "Aufgabenbeschreibung": "Die folgenden Worte schreiben sich mit -y-:\nÄgypten, Dynamo, Gymnastik, Hypnose, Olympiade, Party, Physik,\nPyramide, Rhythmus, Symbol, Symmetrie, System, Tyrann, Zylinder",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "4.22",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -58090,21 +58095,21 @@
               "UebungsBeschreibung": "idillisch/idyllisch",
               "Uebung_id": "4.22.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "4.22"
+          ]
         }
-      ],
-      "Uebungsbereich_id": 4
+      ]
     },
     {
       "Uebungsbereich": "Andere Probleme",
+      "Uebungsbereich_id": 5,
       "Teilgebiet": [
         {
           "Titel": "Unterscheidung Vokal und Konsonant",
           "Aufgabenbeschreibung": "Tipp für die Unterscheidung von Vokalen und Konsonanten:\nVokale (Selbstlaut) klingen alleine: A, E, I, O, U, Ä, Ö, Ü\nKonsonanten (Mitlaute) klingen nur in Verbindung mit einem Vokal: B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y und Z",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.1",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -59106,15 +59111,15 @@
               "UebungsBeschreibung": "N",
               "Uebung_id": "5.1.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.1"
+          ]
         },
         {
           "Titel": "Langer oder kurzer Vokal",
           "Aufgabenbeschreibung": "Einen Vokal kann man lang oder auch kurz betont aussprechen.\nZum Beispiel spricht sich das A in den Worten Dame und Bar lang aus,\ndas A in dem Wort Damm spricht sich dagegen kurz (betont!) aus.\nWie spricht sich der erste Vokal in dem Wort? Lang oder kurz?",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.2",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -60106,15 +60111,15 @@
               "UebungsBeschreibung": "Hebel",
               "Uebung_id": "5.2.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.2"
+          ]
         },
         {
           "Titel": "Oberzeichen (ä, ö, ü)",
           "Aufgabenbeschreibung": "Bei den folgenden Worten fehlen die Oberzeichen, das heißt die Pünktchen über dem Ä, Ö oder dem Ü.\n***Bitte den Buchstaben anklicken und mit Doppelklick die Auswahl bestätigen***",
+          "IstSpeziell": true,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.3",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -61007,15 +61012,15 @@
               "UebungsBeschreibung": "zuruckholen",
               "Uebung_id": "5.3.99"
             }
-          ],
-          "IstSpeziell": true,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.3"
+          ]
         },
         {
           "Titel": "Silben zählen",
           "Aufgabenbeschreibung": "Worte kann man in Silben einteilen, zwischen denen sie sich trennen lassen.\n'Öl' hat nur eine Silbe\n'Blu-me' hat zwei Silben\n'Fahr-rad-len-ker' hat vier Silben",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.4",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -62203,15 +62208,15 @@
               "UebungsBeschreibung": "Flecke",
               "Uebung_id": "5.4.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.4"
+          ]
         },
         {
           "Titel": "Kommasetzung",
           "Aufgabenbeschreibung": "Ein Komma steht zwischen Aufzählungen (z.B.: Äpfel, Birnen, Bananen),\nnach Anreden und Ausrufen (z.B.: He, Sie, Herr Meier, kommen Sie mal!),\nnach Beifügungen (z.B.: Herkules, der Dackel, war weggelaufen.)\noder vor Konjunktionen (z.B.: dass, als, bevor, bis, damit, denn, falls)\nHinter Welchem Wort fehlt das Komma?",
+          "IstSpeziell": true,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.5",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -62834,15 +62839,15 @@
               "UebungsBeschreibung": "Obwohl versprochen ließ er nichts von sich hören.",
               "Uebung_id": "5.5.69"
             }
-          ],
-          "IstSpeziell": true,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.5"
+          ]
         },
         {
           "Titel": "Worte, die man leicht verwechselt",
           "Aufgabenbeschreibung": "Die folgenden Worte klingen zwar ähnlich, sie haben aber immer eine andere Bedeutung.\nder Wal (-fisch), die Wahl (des Bürgermeisters), der Wall (um die Stadt)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.6",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -63464,15 +63469,15 @@
               "UebungsBeschreibung": "Herr Schulze ist Soldat beim deutschen Heer./Heer Schulze ist Soldat beim deutschen Herr.",
               "Uebung_id": "5.6.62"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.6"
+          ]
         },
         {
           "Titel": "Worte, die man leicht verwechselt (das, dass)",
           "Aufgabenbeschreibung": "Das Wort 'das' ist ein Artikel und steht vor Nomen, z.B. das Haus.\nMan kann statt 'das' auch dieses / jenes / welches einsetzen:\nIst das das Kind, das du kennst? = Ist dies jenes Kind, welches du kennst?\nDas Wort 'dass' ist eine Konjunktion (Bindewort) und verbindet einen Haupt- und einen Nebensatz.\nIch glaube, dass er nett ist.",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.7",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -64395,15 +64400,15 @@
               "UebungsBeschreibung": "Das kann doch wohl nicht wahr sein !/Dass kann doch wohl nicht wahr sein !",
               "Uebung_id": "5.7.92"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.7"
+          ]
         },
         {
           "Titel": "Worte, die man leicht verwechselt (end-, ent-)",
           "Aufgabenbeschreibung": "Tipps für die Silben end- und ent-:\nend-: das Wort hat etwas mit Ende zu tun (Endstation)\nent-: das Wort hat nichts mit Ende zu tun (Entsetzen, hoffentlich)\nAm Wortende meist mit -end (z.B. springen_ = das springende Pferd)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.8",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -65405,15 +65410,15 @@
               "UebungsBeschreibung": "endsetzt/entsetzt",
               "Uebung_id": "5.8.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.8"
+          ]
         },
         {
           "Titel": "Worte, die man leicht verwechselt (wider, wieder)",
           "Aufgabenbeschreibung": "Bitte unterscheiden: wider (= gegen z.B. Widerstand, Widerrede), wieder (= nochmals z.B. Wiedersehen, wiedergeben)\nMine (Sprengkörper oder Bergwerksgang), Miene (Gesichtszüge)\nStil (= Kunststil oder Baustil), Stiel (Besenstiel)\nLid (am Auge), Lied (zum Singen)",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.9",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -66415,15 +66420,15 @@
               "UebungsBeschreibung": "widerum/wiederum",
               "Uebung_id": "5.9.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.9"
+          ]
         },
         {
           "Titel": "Dreifachkonsonanten u. Vokale",
           "Aufgabenbeschreibung": "Bei Zusammenschreibung von zwei Worten kann es passieren, dass drei gleiche Buchstaben aufeinanderfolgen.\nMan schreibt in diesem Fall alle drei Konsonanten:\nStoff + Fetzen = Stofffetzen; Bett + Truhe = Betttruhe.\nAuch drei Vokale kann man zusammenschreiben:\nTee + Ei = Teeei",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.10",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -67129,15 +67134,15 @@
               "UebungsBeschreibung": "Ballettruppe/Balletttruppe/Ballett-Truppe",
               "Uebung_id": "5.10.64"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.10"
+          ]
         },
         {
           "Titel": "Adjektivendung -ig und -lich",
           "Aufgabenbeschreibung": "Eigenschaftsworte (Adjektive) enden oft mit -ig oder -lich.\nHier hilft das Verlängern des Wortes im Satz:\ntücht__ = der tüchtige Schüler; mündl___ = mündliche Prüfung",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.11",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -68129,15 +68134,15 @@
               "UebungsBeschreibung": "traurig/traurich",
               "Uebung_id": "5.11.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.11"
+          ]
         },
         {
           "Titel": "Worte mit Sp- und St-",
           "Aufgabenbeschreibung": "Tipp für Worte mit -sp- und -st-:\nIm Deutschen steht vor -p- und vor -t- nie ein -Sch-, sondern nur ein einfaches -S-.\nBeispiele: Spinne, Spatz, Spritze, Stunde, Strümpfe, Gestank",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.12",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -69139,15 +69144,15 @@
               "UebungsBeschreibung": "schteif/steif",
               "Uebung_id": "5.12.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.12"
+          ]
         },
         {
           "Titel": "Worte mit ph und th",
           "Aufgabenbeschreibung": "Die folgenden Worte schreiben sich mit Ph- oder mit Th-.\nMit Th-: Bibliothek, Mathematik, Methode, Theater, Thema, Therapie\nMit Ph-: Asphalt, Atmosphäre, Phänomen, Phase, Physik, Strophe",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.13",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -70140,15 +70145,15 @@
               "UebungsBeschreibung": "Fontäne/Phontäne",
               "Uebung_id": "5.13.99"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.13"
+          ]
         },
         {
           "Titel": "Worte mit Qu-",
           "Aufgabenbeschreibung": "Tipp für Worte mit Qu-:\nObwohl es sich wie -Kw- spricht, schreibt man im Deutschen hier immer ein -Qu-.\nBeispiele: Qualle, Qual, quietschen, quer, Äquator, Aquarium",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "5.14",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -71150,22 +71155,21 @@
               "UebungsBeschreibung": "die Qualle/die Kwalle",
               "Uebung_id": "5.14.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "5.14"
+          ]
         }
-      ],
-      "Uebungsbereich_id": 5
+      ]
     },
     {
       "Uebungsbereich": "Fremdworte",
+      "Uebungsbereich_id": 6,
       "Teilgebiet": [
         {
           "Titel": "Fremdworte Teil 1",
-          "Uebungsbereich": "Fremdworte",
           "Aufgabenbeschreibung": "Gesucht ist ein Fremdwort für:",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "6.1",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -72267,16 +72271,15 @@
               "UebungsBeschreibung": "Händler alter Bücher",
               "Uebung_id": "6.1.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "6.1"
+          ]
         },
         {
           "Titel": "Fremdworte Teil 2",
-          "Uebungsbereich": "Fremdworte",
           "Aufgabenbeschreibung": "Gesucht ist ein Fremdwort für:",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "6.2",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -73378,16 +73381,15 @@
               "UebungsBeschreibung": "Zucht, Ordnung",
               "Uebung_id": "6.2.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "6.2"
+          ]
         },
         {
           "Titel": "Fremdworte Teil 3",
-          "Uebungsbereich": "Fremdworte",
           "Aufgabenbeschreibung": "Gesucht ist ein Fremdwort für:",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "6.3",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -74489,16 +74491,15 @@
               "UebungsBeschreibung": "Teilhaber einer Firma",
               "Uebung_id": "6.3.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "6.3"
+          ]
         },
         {
           "Titel": "Fremdworte Teil 4",
-          "Uebungsbereich": "Fremdworte",
           "Aufgabenbeschreibung": "Gesucht ist ein Fremdwort für:",
+          "IstSpeziell": false,
+          "IsChecked": false,
+          "Expanded": false,
+          "Teilgebiet_id": "6.4",
           "UebungenListe": [
             {
               "Moeglichkeiten": [
@@ -75593,21 +75594,16 @@
               "Moeglichkeiten": [
                 "Phänomen",
                 "Pharao",
-                "Phase"
+                "Photosythese"
               ],
               "KorrekteAntwort": 2,
               "Infotext": null,
               "UebungsBeschreibung": "ägyptischer Herrscher",
               "Uebung_id": "6.4.100"
             }
-          ],
-          "IstSpeziell": false,
-          "IsChecked": false,
-          "Expanded": false,
-          "Teilgebiet_id": "6.4"
+          ]
         }
-      ],
-      "Uebungsbereich_id": 6
+      ]
     }
   ]
 }
