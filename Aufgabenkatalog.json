@@ -1,9 +1,9 @@
 {
-  "version": 43,
-  "lastUpdated": "2026-10-23T09:32:23.454854",
-  "etag": "W/\"1538674308471474315\"",
+  "version": 44,
+  "lastUpdated": "2026-10-26T14:20:10.204520",
+  "etag": "W/\"-4856492331180026864\"",
   "totalAufgaben": 7386,
-  "size": 1410381,
+  "size": 1410382,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75594,7 +75594,7 @@
               "Moeglichkeiten": [
                 "Phänomen",
                 "Pharao",
-                "Photosythese"
+                "Photosynthese"
               ],
               "KorrekteAntwort": 2,
               "Infotext": null,
