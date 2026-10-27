@@ -1,9 +1,9 @@
 {
-  "version": 45,
-  "lastUpdated": "2026-10-27T10:01:25.387875",
-  "etag": "W/\"-6644323361787582548\"",
+  "version": 46,
+  "lastUpdated": "2026-10-27T15:09:07.512428",
+  "etag": "W/\"7111596256188025975\"",
   "totalAufgaben": 7386,
-  "size": 1410382,
+  "size": 1410330,
   "data": [
     {
       "Uebungsbereich": "Groß- und Kleinschreibung",
@@ -75594,7 +75594,7 @@
               "Moeglichkeiten": [
                 "Phänomen",
                 "Pharao",
-                "Photosynthese"
+                "Phase"
               ],
               "KorrekteAntwort": 2,
               "Infotext": null,
