@@ -1,7 +1,7 @@
 {
-  "version": 44,
-  "lastUpdated": "2026-10-26T14:20:10.204520",
-  "etag": "W/\"-4856492331180026864\"",
+  "version": 45,
+  "lastUpdated": "2026-10-27T10:01:25.387875",
+  "etag": "W/\"-6644323361787582548\"",
   "totalAufgaben": 7386,
   "size": 1410382,
   "data": [
@@ -61027,7 +61027,7 @@
                 "abgehetzt",
                 "ab-gehetzt"
               ],
-              "KorrekteAntwort": 3,
+              "KorrekteAntwort": 2,
               "Infotext": "AB-GE-HETZT",
               "UebungsBeschreibung": "abgehetzt/ab-gehetzt",
               "Uebung_id": "5.4.1"
